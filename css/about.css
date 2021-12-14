@@ -1,0 +1,41 @@
+
+.about {
+  display: flex;
+}
+
+.about .about-text {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 1rem;
+}
+
+.about .about-text h1 {
+  padding-left: 10rem;
+  margin-bottom: 30px;
+  width: 30%;
+  font-size: 40px;
+}
+
+.about-text h5 {
+  color: var(--color-bg);
+  padding: 30px;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+.about-text, .about-image {
+  width: 50%;
+}
+
+.image1, .image1 {
+  position: absolute;
+}
+
+.image2 {
+  position: relative;
+  z-index: 1;
+  transform: scale(0.6);
+  left: 100px;
+  /* top: -100px; */
+}

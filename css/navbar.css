@@ -1,0 +1,43 @@
+.navbar {
+  height: var(--nav-height);
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+  position: fixed;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 3;
+  border-bottom: 3px solid var(--color-bg);
+}
+
+.nav-brand {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: var(--font-label);
+  color: white;
+  background: var(--color-bg);
+  font-size: 25px;
+  height: var(--nav-height);
+  width: 30%;
+}
+
+.nav-menu {
+  width: 50%;
+  height: var(--nav-height);
+  display: flex;
+  align-items: center;
+}
+
+.nav-menu .list-menu {
+  margin: 0 40px;
+}
+
+.nav-account {
+  color: rgb(150, 117, 46);
+  margin-right: 2rem;
+}
+
+.nav-account i {
+  font-size: 30px;
+}

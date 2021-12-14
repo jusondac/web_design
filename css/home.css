@@ -1,0 +1,29 @@
+.dashboard {
+  display: flex;
+}
+
+.dashboard-img img {
+  transform: scale(1.14);
+}
+
+.home-text {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 50%;
+  height: 700px;
+  padding-left: 3rem;
+}
+
+.home-text .title {
+  background-color: var(--color-bg);
+  font-size: 40px;
+  padding: 20px;
+  width: 50%;
+  color: white;
+}
+
+.home-text .description {
+  border: 2px solid var(--color-bg);
+  padding: 10px;
+}
