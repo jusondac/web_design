@@ -55,13 +55,14 @@ form textarea {
   height: 100px;
 }
 
-form button {
+form button[type='submit'] {
   width: 40%;
   height: 10%;
   background-color: var(--color-bg);
   color: white;
   border: none;
   border-radius: 20px;
+  margin-bottom: 20px;
 }
 
 /* FOOTER */

@@ -60,7 +60,7 @@
 
 .mark {
   background-color: var(--color-bg);
-  color: white;
+  color: var(--color-bg);
 }
 
 .product-list {
