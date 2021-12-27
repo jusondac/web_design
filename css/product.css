@@ -12,7 +12,7 @@
 
 .big-sale-1 {
   background-color: yellow;
-  background-image: url(/img/model/man-model-2.jpg);
+  background-image: url(https://jusondac.github.io/web_design//img/model/man-model-2.jpg);
   background-position:top;
   width: 50%;
   height: 100%;
@@ -51,7 +51,7 @@
 
 .big-sale-2 {
   background-color: yellow;
-  background-image: url(/img/model/women-model.jpg);
+  background-image: url(https://jusondac.github.io/web_design//img/model/women-model.jpg);
   background-position: center;
   width: 50%;
   height: 100%;
@@ -110,17 +110,17 @@
 } */
 
 .pakaian {
-  background-image: url(/img/model/man-model-5.jpg);
+  background-image: url(https://jusondac.github.io/web_design//img/model/man-model-5.jpg);
   background-position: center;
 }
 
 .celana {
-  background-image: url(/img/model/women-model-2.jpg);
+  background-image: url(https://jusondac.github.io/web_design//img/model/women-model-2.jpg);
   background-position: center;
 }
 
 .aksesoris {
-  background-image: url(/img/model/man-model-4.jpg);
+  background-image: url(https://jusondac.github.io/web_design//img/model/man-model-4.jpg);
   background-position: center;
 }
 

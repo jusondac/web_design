@@ -41,3 +41,8 @@
 .nav-account i {
   font-size: 30px;
 }
+
+.nav-menu .list-menu a {
+  color: black;
+  text-decoration: none;
+}
