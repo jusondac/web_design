@@ -1,3 +1,4 @@
+
 .nav-custom {
   height: var(--nav-height);
   width: 100%;
@@ -13,9 +14,9 @@
 }
 
 .nav-custom-brand {
-  /* display: flex;
+  display: flex;
   justify-content: center;
-  align-items: center; */
+  align-items: center;
   font-family: var(--font-label);
   color: white;
   background: var(--color-bg);

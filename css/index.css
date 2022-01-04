@@ -12,6 +12,9 @@
 @import url(about.css);
 @import url(product.css);
 
+/* MEDIA QUERY STYLE */
+@import url(media_query)
+
 * {
   padding: 0;
   margin: 0;

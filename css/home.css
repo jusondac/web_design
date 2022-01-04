@@ -1,5 +1,6 @@
 .dashboard {
   display: flex;
+  
 }
 
 .dashboard-img img {
@@ -24,6 +25,12 @@
 }
 
 .home-text .description {
-  border: 2px solid var(--color-bg);
+  color: var(--color-bg);
   padding: 10px;
+}
+
+.home-text .description p {
+  letter-spacing: 3px;
+  font-size: 20px;
+  color: var(--color-bg);
 }
