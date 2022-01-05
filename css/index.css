@@ -13,7 +13,7 @@
 @import url(product.css);
 
 /* MEDIA QUERY STYLE */
-@import url(media_query)
+@import url(media_query.css);
 
 * {
   padding: 0;

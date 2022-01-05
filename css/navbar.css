@@ -1,4 +1,44 @@
 
+.nav-cus {
+  display: flex;
+  overflow: hidden;
+  justify-content: space-around;
+  background: #fff;
+}
+
+.nav-cus .nav-cus-brand {
+  width: 50%;
+  background: var(--color-bg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav-cus .nav-cus-brand p {
+  color: white;
+}
+
+.nav-cus a {
+  float: left;
+  display: block;
+  color: var(--color-bg);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.nav-cus a:hover {
+  background-color: var(--color-bg);
+  color: black;
+}
+
+.nav-cus .icon {
+  display: none;
+}
+
+
+/*
 .nav-custom {
   height: var(--nav-height);
   width: 100%;
@@ -50,4 +90,4 @@
 .nav-menu .list-menu a {
   color: black;
   text-decoration: none;
-}
+} */
